@@ -7,3 +7,6 @@ Captain Future ist eine US-amerikanische Pulp-Serie von Edmond Hamilton, die von
 * stark
 * ehrlich
 * nett
+
+<img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/c0/CaptainFuture.svg/560px-CaptainFuture.svg.png"/>
+
