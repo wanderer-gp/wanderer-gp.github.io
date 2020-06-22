@@ -7,3 +7,6 @@ Captain Future ist eine US-amerikanische Pulp-Serie von Edmond Hamilton, die von
 * stark
 * ehrlich
 * nett
+
+Captain Future sagt:
+>Alles Super in der Zukunft
