@@ -12,4 +12,4 @@ Captain Future sagt:
 > Alles Super in der Zukunft,
 > Wirklich !!
 
-
+<img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/c0/CaptainFuture.svg/560px-CaptainFuture.svg.png"/>
